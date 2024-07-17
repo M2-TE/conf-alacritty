@@ -2,8 +2,8 @@
 dimensions = { columns = 128, lines = 32 }
 padding = { x = 3, y = 3 }
 dynamic_padding = true
-opacity = 1.0
-blur = false
+opacity = 0.97
+blur = true
 
 [font]
 #normal = { family = "JetBrainsMono Nerd Font", style = "Regular" }
